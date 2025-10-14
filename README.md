@@ -1,10 +1,8 @@
-# Machine Learning, 2024/25
+# Machine Learning, 2025/26
 
-Machine Learning course in the Faculty of Mathematics, Informatics and Mechanics, University of Warsaw, summer semester of the academic year 2024/2025
-
+Machine Learning course in the Faculty of Mathematics, Informatics and Mechanics, University of Warsaw, summer semester of the academic year 2025/2026
 
 # **Requirements for Passing the Lab Component**  
-
 
 The lab component of the course is structured into two main parts:
 
